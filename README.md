@@ -371,9 +371,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Link**: [https://github.com/yourusername/wow-resume](https://github.com/yourusername/wow-resume)
+**Project Link**: [https://github.com/Always-Amulya7/WoW-Resume](https://github.com/Always-Amulya7/WoW-Resume)
 
-**Issues**: [https://github.com/yourusername/wow-resume/issues](https://github.com/yourusername/wow-resume/issues)
+**Issues**: [https://github.com/Always-Amulya7/WoW-Resume/issues](https://github.com/Always-Amulya7/WoW-Resume/issues)
 
 ---
 
